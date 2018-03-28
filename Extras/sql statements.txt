@@ -1,0 +1,27 @@
+source incremental row count:
+
+select count(*) as count, '{0}' as tabname " \
+"from {0} (readuncommitted) as a " \
+"inner join {1}.restricted.{2}_Status as b (readuncommited) " \"on a.{3} = b.{3} " \
+"where lastupdateddate >'{4}' and lastupdateddate <= '{5}'
+
+
+
+sqlServerManager = SqlServerManager(self.SqlServerCursor)
+            gbqManager = GBQManager(self.gbqClient)
+
+            sourceTableSchema = sqlServerManager.getSchema(self.sourceTables[tableId])
+            targetTableSchema = gbqManager.getSchema(self.targetTables[tableId])
+
+            sourceDatasetSchema.append(sourceTableSchema)
+            targetDatasetSchema.append(targetTableSchema)
+
+gbqManager = GBQManager(self.gbqClient)
+            sqlServerManager = SqlServerManager(self.SqlServerCursor)
+
+            targetTableSampleData = gbqManager.getSampleTableData(targetTables[tableId])
+            uIDsList = self.__getUIDsFromTargetTable(targetTableSampleData)
+            sourceTableSampleData = sqlServerManager.getSampleTableData(sourceTables[tableId],targetUKeys[sourceTables[tableId]],uIDsList)
+
+            targetDatasetSampleData.append(targetTableSampleData)
+            sourceDatasetSampleData.append(sourceTableSampleData)

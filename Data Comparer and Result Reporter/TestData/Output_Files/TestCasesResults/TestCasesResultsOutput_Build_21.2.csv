@@ -1,0 +1,611 @@
+Build,Date,Notes,TestCase,Verdict
+22.2,6/2/2017,"Full Load:
+Row counts are equal between AddressDim and AddressDim_CHCO_CDW_20170517103649796_19000101000000000_20170517103649796 tables.
+
+AddressDim: 1234378
+AddressDim_CHCO_CDW_20170517103649796_19000101000000000_20170517103649796: 1234378",Rowcount validation of CHCO source and GBQ target AddressDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between AdmissionProfileDim and AdmissionProfileDim_CHCO_CDW_20170517103726296_19000101000000000_20170517103726296 tables.
+
+AdmissionProfileDim: 157
+AdmissionProfileDim_CHCO_CDW_20170517103726296_19000101000000000_20170517103726296: 157",Rowcount validation of CHCO source and GBQ target AdmissionProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between AllergenDim and AllergenDim_CHCO_CDW_20170517103731546_19000101000000000_20170517103731546 tables.
+
+AllergenDim: 50191
+AllergenDim_CHCO_CDW_20170517103731546_19000101000000000_20170517103731546: 50191",Rowcount validation of CHCO source and GBQ target AllergenDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between AllergyFact and AllergyFact_CHCO_CDW_20170517103743265_19000101000000000_20170517103743265 tables.
+
+AllergyFact: 989666
+AllergyFact_CHCO_CDW_20170517103743265_19000101000000000_20170517103743265: 989666",Rowcount validation of CHCO source and GBQ target AllergyFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between AllergyProfileDim and AllergyProfileDim_CHCO_CDW_20170517104108374_19000101000000000_20170517104108374 tables.
+
+AllergyProfileDim: 29
+AllergyProfileDim_CHCO_CDW_20170517104108374_19000101000000000_20170517104108374: 29",Rowcount validation of CHCO source and GBQ target AllergyProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between AppointmentProfileDim and AppointmentProfileDim_CHCO_CDW_20170517104112312_19000101000000000_20170517104112312 tables.
+
+AppointmentProfileDim: 273
+AppointmentProfileDim_CHCO_CDW_20170517104112312_19000101000000000_20170517104112312: 273",Rowcount validation of CHCO source and GBQ target AppointmentProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between AttendingProviderFact and AttendingProviderFact_CHCO_CDW_20170517104115952_19000101000000000_20170517104115952 tables.
+
+AttendingProviderFact: 2046447
+AttendingProviderFact_CHCO_CDW_20170517104115952_19000101000000000_20170517104115952: 2046447",Rowcount validation of CHCO source and GBQ target AttendingProviderFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between AttributeDim and AttributeDim_CHCO_CDW_20170517104925531_19000101000000000_20170517104925531 tables.
+
+AttributeDim: 366855
+AttributeDim_CHCO_CDW_20170517104925531_19000101000000000_20170517104925531: 366855",Rowcount validation of CHCO source and GBQ target AttributeDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between BillingAccountEncounterMappingFact and BillingAccountEncounterMappingFact_CHCO_CDW_20170517105038999_19000101000000000_20170517105038999 tables.
+
+BillingAccountEncounterMappingFact: 12296962
+BillingAccountEncounterMappingFact_CHCO_CDW_20170517105038999_19000101000000000_20170517105038999: 12296962",Rowcount validation of CHCO source and GBQ target BillingAccountEncounterMappingFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between BillingAccountFact and BillingAccountFact_CHCO_CDW_20170517112700907_19000101000000000_20170517112700907 tables.
+
+BillingAccountFact: 8404033
+BillingAccountFact_CHCO_CDW_20170517112700907_19000101000000000_20170517112700907: 8404033",Rowcount validation of CHCO source and GBQ target BillingAccountFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between BillingAccountProfileDim and BillingAccountProfileDim_CHCO_CDW_20170517142206084_19000101000000000_20170517142206084 tables.
+
+BillingAccountProfileDim: 122
+BillingAccountProfileDim_CHCO_CDW_20170517142206084_19000101000000000_20170517142206084: 122",Rowcount validation of CHCO source and GBQ target BillingAccountProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between BillingAccountServiceProfileDim and BillingAccountServiceProfileDim_CHCO_CDW_20170517142214318_19000101000000000_20170517142214318 tables.
+
+BillingAccountServiceProfileDim: 1233
+BillingAccountServiceProfileDim_CHCO_CDW_20170517142214318_19000101000000000_20170517142214318: 1233",Rowcount validation of CHCO source and GBQ target BillingAccountServiceProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between BillingAccountStatusProfileDim and BillingAccountStatusProfileDim_CHCO_CDW_20170517142220912_19000101000000000_20170517142220912 tables.
+
+BillingAccountStatusProfileDim: 303
+BillingAccountStatusProfileDim_CHCO_CDW_20170517142220912_19000101000000000_20170517142220912: 303",Rowcount validation of CHCO source and GBQ target BillingAccountStatusProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between BillingProcedureDim and BillingProcedureDim_CHCO_CDW_20170517142227318_19000101000000000_20170517142227318 tables.
+
+BillingProcedureDim: 145943
+BillingProcedureDim_CHCO_CDW_20170517142227318_19000101000000000_20170517142227318: 145943",Rowcount validation of CHCO source and GBQ target BillingProcedureDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between BillingProcedureSetDim and BillingProcedureSetDim_CHCO_CDW_20170517142341943_19000101000000000_20170517142341943 tables.
+
+BillingProcedureSetDim: 11852
+BillingProcedureSetDim_CHCO_CDW_20170517142341943_19000101000000000_20170517142341943: 11852",Rowcount validation of CHCO source and GBQ target BillingProcedureSetDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between BillingTransactionChargeProfileDim and BillingTransactionChargeProfileDim_CHCO_CDW_20170517142352193_19000101000000000_20170517142352193 tables.
+
+BillingTransactionChargeProfileDim: 155835
+BillingTransactionChargeProfileDim_CHCO_CDW_20170517142352193_19000101000000000_20170517142352193: 155835",Rowcount validation of CHCO source and GBQ target BillingTransactionChargeProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between BillingTransactionProfileDim and BillingTransactionProfileDim_CHCO_CDW_20170517142439365_19000101000000000_20170517142439365 tables.
+
+BillingTransactionProfileDim: 2222
+BillingTransactionProfileDim_CHCO_CDW_20170517142439365_19000101000000000_20170517142439365: 2222",Rowcount validation of CHCO source and GBQ target BillingTransactionProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between CareAreaDim and CareAreaDim_CHCO_CDW_20170517142446803_19000101000000000_20170517142446803 tables.
+
+CareAreaDim: 120
+CareAreaDim_CHCO_CDW_20170517142446803_19000101000000000_20170517142446803: 120",Rowcount validation of CHCO source and GBQ target CareAreaDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between CareTeamFact and CareTeamFact_CHCO_CDW_20170517142453756_19000101000000000_20170517142453756 tables.
+
+CareTeamFact: 6097745
+CareTeamFact_CHCO_CDW_20170517142453756_19000101000000000_20170517142453756: 6097745",Rowcount validation of CHCO source and GBQ target CareTeamFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between CareTeamProfileDim and CareTeamProfileDim_CHCO_CDW_20170517145821913_19000101000000000_20170517145821913 tables.
+
+CareTeamProfileDim: 439
+CareTeamProfileDim_CHCO_CDW_20170517145821913_19000101000000000_20170517145821913: 439",Rowcount validation of CHCO source and GBQ target CareTeamProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ChiefComplaintBridge and ChiefComplaintBridge_CHCO_CDW_20170517145829366_19000101000000000_20170517145829366 tables.
+
+ChiefComplaintBridge: 455103
+ChiefComplaintBridge_CHCO_CDW_20170517145829366_19000101000000000_20170517145829366: 455103",Rowcount validation of CHCO source and GBQ target ChiefComplaintBridge table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ChiefComplaintDim and ChiefComplaintDim_CHCO_CDW_20170517145916257_19000101000000000_20170517145916257 tables.
+
+ChiefComplaintDim: 2884
+ChiefComplaintDim_CHCO_CDW_20170517145916257_19000101000000000_20170517145916257: 2884",Rowcount validation of CHCO source and GBQ target ChiefComplaintDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ChiefComplaintSetDim and ChiefComplaintSetDim_CHCO_CDW_20170517145924648_19000101000000000_20170517145924648 tables.
+
+ChiefComplaintSetDim: 78
+ChiefComplaintSetDim_CHCO_CDW_20170517145924648_19000101000000000_20170517145924648: 78",Rowcount validation of CHCO source and GBQ target ChiefComplaintSetDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between CodedProcedureFact and CodedProcedureFact_CHCO_CDW_20170517145931445_19000101000000000_20170517145931445 tables.
+
+CodedProcedureFact: 4585029
+CodedProcedureFact_CHCO_CDW_20170517145931445_19000101000000000_20170517145931445: 4585029",Rowcount validation of CHCO source and GBQ target CodedProcedureFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between CodedProcedureProfileDim and CodedProcedureProfileDim_CHCO_CDW_20170517152010804_19000101000000000_20170517152010804 tables.
+
+CodedProcedureProfileDim: 768
+CodedProcedureProfileDim_CHCO_CDW_20170517152010804_19000101000000000_20170517152010804: 768",Rowcount validation of CHCO source and GBQ target CodedProcedureProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ContractBridge and ContractBridge_CHCO_CDW_20170517152023273_19000101000000000_20170517152023273 tables.
+
+ContractBridge: 4
+ContractBridge_CHCO_CDW_20170517152023273_19000101000000000_20170517152023273: 4",Rowcount validation of CHCO source and GBQ target ContractBridge table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between CostCenterDim and CostCenterDim_CHCO_CDW_20170517152031461_19000101000000000_20170517152031461 tables.
+
+CostCenterDim: 513
+CostCenterDim_CHCO_CDW_20170517152031461_19000101000000000_20170517152031461: 513",Rowcount validation of CHCO source and GBQ target CostCenterDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between CoverageDim and CoverageDim_CHCO_CDW_20170517152038914_19000101000000000_20170517152038914 tables.
+
+CoverageDim: 440384
+CoverageDim_CHCO_CDW_20170517152038914_19000101000000000_20170517152038914: 440384",Rowcount validation of CHCO source and GBQ target CoverageDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between DateDim and DateDim_CHCO_CDW_20170517152744539_19000101000000000_20170517152744539 tables.
+
+DateDim: 50267
+DateDim_CHCO_CDW_20170517152744539_19000101000000000_20170517152744539: 50267",Rowcount validation of CHCO source and GBQ target DateDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between DepartmentDim and DepartmentDim_CHCO_CDW_20170517152817414_19000101000000000_20170517152817414 tables.
+
+DepartmentDim: 11979
+DepartmentDim_CHCO_CDW_20170517152817414_19000101000000000_20170517152817414: 11979",Rowcount validation of CHCO source and GBQ target DepartmentDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between DiagnosisBridge and DiagnosisBridge_CHCO_CDW_20170517152839180_19000101000000000_20170517152839180 tables.
+
+DiagnosisBridge: 12201850
+DiagnosisBridge_CHCO_CDW_20170517152839180_19000101000000000_20170517152839180: 12201850",Rowcount validation of CHCO source and GBQ target DiagnosisBridge table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between DiagnosisDim and DiagnosisDim_CHCO_CDW_20170517155417306_19000101000000000_20170517155417306 tables.
+
+DiagnosisDim: 1388698
+DiagnosisDim_CHCO_CDW_20170517155417306_19000101000000000_20170517155417306: 1388698",Rowcount validation of CHCO source and GBQ target DiagnosisDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between DiagnosisEventFact and DiagnosisEventFact_CHCO_CDW_20170517160052431_19000101000000000_20170517160052431 tables.
+
+DiagnosisEventFact: 23676910
+DiagnosisEventFact_CHCO_CDW_20170517160052431_19000101000000000_20170517160052431: 23676910",Rowcount validation of CHCO source and GBQ target DiagnosisEventFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between DiagnosisProfileDim and DiagnosisProfileDim_CHCO_CDW_20170517184143564_19000101000000000_20170517184143564 tables.
+
+DiagnosisProfileDim: 23
+DiagnosisProfileDim_CHCO_CDW_20170517184143564_19000101000000000_20170517184143564: 23",Rowcount validation of CHCO source and GBQ target DiagnosisProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between DiagnosisSetDim and DiagnosisSetDim_CHCO_CDW_20170517184150611_19000101000000000_20170517184150611 tables.
+
+DiagnosisSetDim: 13837405
+DiagnosisSetDim_CHCO_CDW_20170517184150611_19000101000000000_20170517184150611: 13837405",Rowcount validation of CHCO source and GBQ target DiagnosisSetDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between DiagnosisTerminologyDim and DiagnosisTerminologyDim_CHCO_CDW_20170517193345050_19000101000000000_20170517193345050 tables.
+
+DiagnosisTerminologyDim: 48720480
+DiagnosisTerminologyDim_CHCO_CDW_20170517193345050_19000101000000000_20170517193345050: 48720480",Rowcount validation of CHCO source and GBQ target DiagnosisTerminologyDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between DischargeProfileDim and DischargeProfileDim_CHCO_CDW_20170517234158776_19000101000000000_20170517234158776 tables.
+
+DischargeProfileDim: 46
+DischargeProfileDim_CHCO_CDW_20170517234158776_19000101000000000_20170517234158776: 46",Rowcount validation of CHCO source and GBQ target DischargeProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between DrgDim and DrgDim_CHCO_CDW_20170517234204573_19000101000000000_20170517234204573 tables.
+
+DrgDim: 14272
+DrgDim_CHCO_CDW_20170517234204573_19000101000000000_20170517234204573: 14272",Rowcount validation of CHCO source and GBQ target DrgDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between DurationDim and DurationDim_CHCO_CDW_20170517234213089_19000101000000000_20170517234213089 tables.
+
+DurationDim: 15300579
+DurationDim_CHCO_CDW_20170517234213089_19000101000000000_20170517234213089: 15300579",Rowcount validation of CHCO source and GBQ target DurationDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EdVisitAttributeValueDim and EdVisitAttributeValueDim_CHCO_CDW_20170518001016183_19000101000000000_20170518001016183 tables.
+
+EdVisitAttributeValueDim: 1019363
+EdVisitAttributeValueDim_CHCO_CDW_20170518001016183_19000101000000000_20170518001016183: 1019363",Rowcount validation of CHCO source and GBQ target EdVisitAttributeValueDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EdVisitFact and EdVisitFact_CHCO_CDW_20170518001517980_19000101000000000_20170518001517980 tables.
+
+EdVisitFact: 1525776
+EdVisitFact_CHCO_CDW_20170518001517980_19000101000000000_20170518001517980: 1525776",Rowcount validation of CHCO source and GBQ target EdVisitFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EdVisitProfileDim and EdVisitProfileDim_CHCO_CDW_20170518004318106_19000101000000000_20170518004318106 tables.
+
+EdVisitProfileDim: 16787
+EdVisitProfileDim_CHCO_CDW_20170518004318106_19000101000000000_20170518004318106: 16787",Rowcount validation of CHCO source and GBQ target EdVisitProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EmployeeDim and EmployeeDim_CHCO_CDW_20170518004325856_19000101000000000_20170518004325856 tables.
+
+EmployeeDim: 41192
+EmployeeDim_CHCO_CDW_20170518004325856_19000101000000000_20170518004325856: 41192",Rowcount validation of CHCO source and GBQ target EmployeeDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EncounterAttributeValueDim and EncounterAttributeValueDim_CHCO_CDW_20170518004340997_19000101000000000_20170518004340997 tables.
+
+EncounterAttributeValueDim: 12391954
+EncounterAttributeValueDim_CHCO_CDW_20170518004340997_19000101000000000_20170518004340997: 12391954",Rowcount validation of CHCO source and GBQ target EncounterAttributeValueDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EncounterFact and EncounterFact_CHCO_CDW_20170518012547001_19000101000000000_20170518012547001 tables.
+
+EncounterFact: 25024751
+EncounterFact_CHCO_CDW_20170518012547001_19000101000000000_20170518012547001: 25024751",Rowcount validation of CHCO source and GBQ target EncounterFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EncounterProfileDim and EncounterProfileDim_CHCO_CDW_20170518030607469_19000101000000000_20170518030607469 tables.
+
+EncounterProfileDim: 275
+EncounterProfileDim_CHCO_CDW_20170518030607469_19000101000000000_20170518030607469: 275",Rowcount validation of CHCO source and GBQ target EncounterProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EncounterRegistryProfileDim and EncounterRegistryProfileDim_CHCO_CDW_20170518030612188_19000101000000000_20170518030612188 tables.
+
+EncounterRegistryProfileDim: 6
+EncounterRegistryProfileDim_CHCO_CDW_20170518030612188_19000101000000000_20170518030612188: 6",Rowcount validation of CHCO source and GBQ target EncounterRegistryProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EncounterRegistryValueFact and EncounterRegistryValueFact_CHCO_CDW_20170518030615735_19000101000000000_20170518030615735 tables.
+
+EncounterRegistryValueFact: 8679860
+EncounterRegistryValueFact_CHCO_CDW_20170518030615735_19000101000000000_20170518030615735: 8679860",Rowcount validation of CHCO source and GBQ target EncounterRegistryValueFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EvsFact and EvsFact_CHCO_CDW_20170518032453329_19000101000000000_20170518032453329 tables.
+
+EvsFact: 44873
+EvsFact_CHCO_CDW_20170518032453329_19000101000000000_20170518032453329: 44873",Rowcount validation of CHCO source and GBQ target EvsFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EvsProfileDim and EvsProfileDim_CHCO_CDW_20170518032517298_19000101000000000_20170518032517298 tables.
+
+EvsProfileDim: 54
+EvsProfileDim_CHCO_CDW_20170518032517298_19000101000000000_20170518032517298: 54",Rowcount validation of CHCO source and GBQ target EvsProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between EvsStageOneProfileDim and EvsStageOneProfileDim_CHCO_CDW_20170518032520704_19000101000000000_20170518032520704 tables.
+
+EvsStageOneProfileDim: 26
+EvsStageOneProfileDim_CHCO_CDW_20170518032520704_19000101000000000_20170518032520704: 26",Rowcount validation of CHCO source and GBQ target EvsStageOneProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between FlowsheetRowDim and FlowsheetRowDim_CHCO_CDW_20170518032524079_19000101000000000_20170518032524079 tables.
+
+FlowsheetRowDim: 41012
+FlowsheetRowDim_CHCO_CDW_20170518032524079_19000101000000000_20170518032524079: 41012",Rowcount validation of CHCO source and GBQ target FlowsheetRowDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between FlowsheetTemplateDim and FlowsheetTemplateDim_CHCO_CDW_20170518032534016_19000101000000000_20170518032534016 tables.
+
+FlowsheetTemplateDim: 1091
+FlowsheetTemplateDim_CHCO_CDW_20170518032534016_19000101000000000_20170518032534016: 1091",Rowcount validation of CHCO source and GBQ target FlowsheetTemplateDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between FlowsheetValueProfileDim and FlowsheetValueProfileDim_CHCO_CDW_20170518032541048_19000101000000000_20170518032541048 tables.
+
+FlowsheetValueProfileDim: 4
+FlowsheetValueProfileDim_CHCO_CDW_20170518032541048_19000101000000000_20170518032541048: 4",Rowcount validation of CHCO source and GBQ target FlowsheetValueProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between GuarantorDim and GuarantorDim_CHCO_CDW_20170518032544438_19000101000000000_20170518032544438 tables.
+
+GuarantorDim: 121366
+GuarantorDim_CHCO_CDW_20170518032544438_19000101000000000_20170518032544438: 121366",Rowcount validation of CHCO source and GBQ target GuarantorDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between HospitalAdmissionAttributeValueDim and HospitalAdmissionAttributeValueDim_CHCO_CDW_20170518032705157_19000101000000000_20170518032705157 tables.
+
+HospitalAdmissionAttributeValueDim: 397202
+HospitalAdmissionAttributeValueDim_CHCO_CDW_20170518032705157_19000101000000000_20170518032705157: 397202",Rowcount validation of CHCO source and GBQ target HospitalAdmissionAttributeValueDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between HospitalAdmissionFact and HospitalAdmissionFact_CHCO_CDW_20170518032810720_19000101000000000_20170518032810720 tables.
+
+HospitalAdmissionFact: 181392
+HospitalAdmissionFact_CHCO_CDW_20170518032810720_19000101000000000_20170518032810720: 181392",Rowcount validation of CHCO source and GBQ target HospitalAdmissionFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between HospitalAdmissionProfileDim and HospitalAdmissionProfileDim_CHCO_CDW_20170518032905907_19000101000000000_20170518032905907 tables.
+
+HospitalAdmissionProfileDim: 786
+HospitalAdmissionProfileDim_CHCO_CDW_20170518032905907_19000101000000000_20170518032905907: 786",Rowcount validation of CHCO source and GBQ target HospitalAdmissionProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ImmunizationDim and ImmunizationDim_CHCO_CDW_20170518032909485_19000101000000000_20170518032909485 tables.
+
+ImmunizationDim: 102
+ImmunizationDim_CHCO_CDW_20170518032909485_19000101000000000_20170518032909485: 102",Rowcount validation of CHCO source and GBQ target ImmunizationDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ImmunizationEventFact and ImmunizationEventFact_CHCO_CDW_20170518032912970_19000101000000000_20170518032912970 tables.
+
+ImmunizationEventFact: 569019
+ImmunizationEventFact_CHCO_CDW_20170518032912970_19000101000000000_20170518032912970: 569019",Rowcount validation of CHCO source and GBQ target ImmunizationEventFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ImmunizationProfileDim and ImmunizationProfileDim_CHCO_CDW_20170518033045110_19000101000000000_20170518033045110 tables.
+
+ImmunizationProfileDim: 123733
+ImmunizationProfileDim_CHCO_CDW_20170518033045110_19000101000000000_20170518033045110: 123733",Rowcount validation of CHCO source and GBQ target ImmunizationProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ImmunizationSetDim and ImmunizationSetDim_CHCO_CDW_20170518033058907_19000101000000000_20170518033058907 tables.
+
+ImmunizationSetDim: 136
+ImmunizationSetDim_CHCO_CDW_20170518033058907_19000101000000000_20170518033058907: 136",Rowcount validation of CHCO source and GBQ target ImmunizationSetDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between LabComponentDim and LabComponentDim_CHCO_CDW_20170518033102517_19000101000000000_20170518033102517 tables.
+
+LabComponentDim: 15235
+LabComponentDim_CHCO_CDW_20170518033102517_19000101000000000_20170518033102517: 15235",Rowcount validation of CHCO source and GBQ target LabComponentDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between LabComponentResultFact and LabComponentResultFact_CHCO_CDW_20170518033108485_19000101000000000_20170518033108485 tables.
+
+LabComponentResultFact: 62954543
+LabComponentResultFact_CHCO_CDW_20170518033108485_19000101000000000_20170518033108485: 62954543",Rowcount validation of CHCO source and GBQ target LabComponentResultFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between LabComponentResultProfileDim and LabComponentResultProfileDim_CHCO_CDW_20170518062525944_19000101000000000_20170518062525944 tables.
+
+LabComponentResultProfileDim: 82
+LabComponentResultProfileDim_CHCO_CDW_20170518062525944_19000101000000000_20170518062525944: 82",Rowcount validation of CHCO source and GBQ target LabComponentResultProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between LabDim and LabDim_CHCO_CDW_20170518062529225_19000101000000000_20170518062529225 tables.
+
+LabDim: 157
+LabDim_CHCO_CDW_20170518062529225_19000101000000000_20170518062529225: 157",Rowcount validation of CHCO source and GBQ target LabDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationAdministrationFact and MedicationAdministrationFact_CHCO_CDW_20170518062532913_19000101000000000_20170518062532913 tables.
+
+MedicationAdministrationFact: 16935639
+MedicationAdministrationFact_CHCO_CDW_20170518062532913_19000101000000000_20170518062532913: 16935639",Rowcount validation of CHCO source and GBQ target MedicationAdministrationFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationAdministrationProfileDim and MedicationAdministrationProfileDim_CHCO_CDW_20170518074325821_19000101000000000_20170518074325821 tables.
+
+MedicationAdministrationProfileDim: 42942
+MedicationAdministrationProfileDim_CHCO_CDW_20170518074325821_19000101000000000_20170518074325821: 42942",Rowcount validation of CHCO source and GBQ target MedicationAdministrationProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationCodeDim and MedicationCodeDim_CHCO_CDW_20170518074331962_19000101000000000_20170518074331962 tables.
+
+MedicationCodeDim: 449778
+MedicationCodeDim_CHCO_CDW_20170518074331962_19000101000000000_20170518074331962: 449778",Rowcount validation of CHCO source and GBQ target MedicationCodeDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationDim and MedicationDim_CHCO_CDW_20170518074417071_19000101000000000_20170518074417071 tables.
+
+MedicationDim: 163846
+MedicationDim_CHCO_CDW_20170518074417071_19000101000000000_20170518074417071: 163846",Rowcount validation of CHCO source and GBQ target MedicationDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationDispenseFact and MedicationDispenseFact_CHCO_CDW_20170518074453774_19000101000000000_20170518074453774 tables.
+
+MedicationDispenseFact: 16663965
+MedicationDispenseFact_CHCO_CDW_20170518074453774_19000101000000000_20170518074453774: 16663965",Rowcount validation of CHCO source and GBQ target MedicationDispenseFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationDispenseNdcProfileDim and MedicationDispenseNdcProfileDim_CHCO_CDW_20170518093634059_19000101000000000_20170518093634059 tables.
+
+MedicationDispenseNdcProfileDim: 38625
+MedicationDispenseNdcProfileDim_CHCO_CDW_20170518093634059_19000101000000000_20170518093634059: 38625",Rowcount validation of CHCO source and GBQ target MedicationDispenseNdcProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationDispenseProfileDim and MedicationDispenseProfileDim_CHCO_CDW_20170518093645434_19000101000000000_20170518093645434 tables.
+
+MedicationDispenseProfileDim: 178
+MedicationDispenseProfileDim_CHCO_CDW_20170518093645434_19000101000000000_20170518093645434: 178",Rowcount validation of CHCO source and GBQ target MedicationDispenseProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationDispenseQuantityProfileDim and MedicationDispenseQuantityProfileDim_CHCO_CDW_20170518093650622_19000101000000000_20170518093650622 tables.
+
+MedicationDispenseQuantityProfileDim: 667
+MedicationDispenseQuantityProfileDim_CHCO_CDW_20170518093650622_19000101000000000_20170518093650622: 667",Rowcount validation of CHCO source and GBQ target MedicationDispenseQuantityProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationOrderFact and MedicationOrderFact_CHCO_CDW_20170518093655137_19000101000000000_20170518093655137 tables.
+
+MedicationOrderFact: 11228611
+MedicationOrderFact_CHCO_CDW_20170518093655137_19000101000000000_20170518093655137: 11228611",Rowcount validation of CHCO source and GBQ target MedicationOrderFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationOrderIndicationForUseProfileDim and MedicationOrderIndicationForUseProfileDim_CHCO_CDW_20170518103331828_19000101000000000_20170518103331828 tables.
+
+MedicationOrderIndicationForUseProfileDim: 527
+MedicationOrderIndicationForUseProfileDim_CHCO_CDW_20170518103331828_19000101000000000_20170518103331828: 527",Rowcount validation of CHCO source and GBQ target MedicationOrderIndicationForUseProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationOrderPrnReasonProfileDim and MedicationOrderPrnReasonProfileDim_CHCO_CDW_20170518103335470_19000101000000000_20170518103335470 tables.
+
+MedicationOrderPrnReasonProfileDim: 6
+MedicationOrderPrnReasonProfileDim_CHCO_CDW_20170518103335470_19000101000000000_20170518103335470: 6",Rowcount validation of CHCO source and GBQ target MedicationOrderPrnReasonProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationOrderProfileDim and MedicationOrderProfileDim_CHCO_CDW_20170518103338955_19000101000000000_20170518103338955 tables.
+
+MedicationOrderProfileDim: 29890
+MedicationOrderProfileDim_CHCO_CDW_20170518103338955_19000101000000000_20170518103338955: 29890",Rowcount validation of CHCO source and GBQ target MedicationOrderProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationOrderSourceProfileDim and MedicationOrderSourceProfileDim_CHCO_CDW_20170518103344598_19000101000000000_20170518103344598 tables.
+
+MedicationOrderSourceProfileDim: 3738
+MedicationOrderSourceProfileDim_CHCO_CDW_20170518103344598_19000101000000000_20170518103344598: 3738",Rowcount validation of CHCO source and GBQ target MedicationOrderSourceProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationOrderTypeProfileDim and MedicationOrderTypeProfileDim_CHCO_CDW_20170518103348255_19000101000000000_20170518103348255 tables.
+
+MedicationOrderTypeProfileDim: 62
+MedicationOrderTypeProfileDim_CHCO_CDW_20170518103348255_19000101000000000_20170518103348255: 62",Rowcount validation of CHCO source and GBQ target MedicationOrderTypeProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between MedicationSetDim and MedicationSetDim_CHCO_CDW_20170518103351475_19000101000000000_20170518103351475 tables.
+
+MedicationSetDim: 268971
+MedicationSetDim_CHCO_CDW_20170518103351475_19000101000000000_20170518103351475: 268971",Rowcount validation of CHCO source and GBQ target MedicationSetDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ModifierBridge and ModifierBridge_CHCO_CDW_20170518103425642_19000101000000000_20170518103425642 tables.
+
+ModifierBridge: 184
+ModifierBridge_CHCO_CDW_20170518103425642_19000101000000000_20170518103425642: 184",Rowcount validation of CHCO source and GBQ target ModifierBridge table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ModifierDim and ModifierDim_CHCO_CDW_20170518103429237_19000101000000000_20170518103429237 tables.
+
+ModifierDim: 268
+ModifierDim_CHCO_CDW_20170518103429237_19000101000000000_20170518103429237: 268",Rowcount validation of CHCO source and GBQ target ModifierDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between PatientAttributeValueDim and PatientAttributeValueDim_CHCO_CDW_20170518103436598_19000101000000000_20170518103436598 tables.
+
+PatientAttributeValueDim: 9462361
+PatientAttributeValueDim_CHCO_CDW_20170518103436598_19000101000000000_20170518103436598: 9462361",Rowcount validation of CHCO source and GBQ target PatientAttributeValueDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between PatientAttributedProviderFact_CHCO_CDW_20170518103432957_19000101000000000_20170518103432957 and PatientAttributedProviderFact_CHCO_CDW_20170518103432957_19000101000000000_20170518103432957 tables.
+
+PatientAttributedProviderFact_CHCO_CDW_20170518103432957_19000101000000000_20170518103432957: 3
+PatientAttributedProviderFact_CHCO_CDW_20170518103432957_19000101000000000_20170518103432957: 3",Rowcount validation of CHCO source and GBQ target PatientAttributedProviderFact_CHCO_CDW_20170518103432957_19000101000000000_20170518103432957 table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between PatientDim and PatientDim_CHCO_CDW_20170518105412091_19000101000000000_20170518105412091 tables.
+
+PatientDim: 2491382
+PatientDim_CHCO_CDW_20170518105412091_19000101000000000_20170518105412091: 2491382",Rowcount validation of CHCO source and GBQ target PatientDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between PatientLocationEventFact and PatientLocationEventFact_CHCO_CDW_20170518111355717_19000101000000000_20170518111355717 tables.
+
+PatientLocationEventFact: 3254915
+PatientLocationEventFact_CHCO_CDW_20170518111355717_19000101000000000_20170518111355717: 3254915",Rowcount validation of CHCO source and GBQ target PatientLocationEventFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between PatientLocationEventProfileDim and PatientLocationEventProfileDim_CHCO_CDW_20170518112912749_19000101000000000_20170518112912749 tables.
+
+PatientLocationEventProfileDim: 6
+PatientLocationEventProfileDim_CHCO_CDW_20170518112912749_19000101000000000_20170518112912749: 6",Rowcount validation of CHCO source and GBQ target PatientLocationEventProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between PatientRegistryProfileDim and PatientRegistryProfileDim_CHCO_CDW_20170518112916483_19000101000000000_20170518112916483 tables.
+
+PatientRegistryProfileDim: 14
+PatientRegistryProfileDim_CHCO_CDW_20170518112916483_19000101000000000_20170518112916483: 14",Rowcount validation of CHCO source and GBQ target PatientRegistryProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between PharmacyDim and PharmacyDim_CHCO_CDW_20170519030849771_19000101000000000_20170519030849771 tables.
+
+PharmacyDim: 86669
+PharmacyDim_CHCO_CDW_20170519030849771_19000101000000000_20170519030849771: 86669",Rowcount validation of CHCO source and GBQ target PharmacyDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between PlaceOfServiceDim and PlaceOfServiceDim_CHCO_CDW_20170519030913646_19000101000000000_20170519030913646 tables.
+
+PlaceOfServiceDim: 191
+PlaceOfServiceDim_CHCO_CDW_20170519030913646_19000101000000000_20170519030913646: 191",Rowcount validation of CHCO source and GBQ target PlaceOfServiceDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ProcedureDim and ProcedureDim_CHCO_CDW_20170519030917333_19000101000000000_20170519030917333 tables.
+
+ProcedureDim: 341512
+ProcedureDim_CHCO_CDW_20170519030917333_19000101000000000_20170519030917333: 341512",Rowcount validation of CHCO source and GBQ target ProcedureDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ProcedureOrderFact and ProcedureOrderFact_CHCO_CDW_20170519031105412_19000101000000000_20170519031105412 tables.
+
+ProcedureOrderFact: 18868881
+ProcedureOrderFact_CHCO_CDW_20170519031105412_19000101000000000_20170519031105412: 18868881",Rowcount validation of CHCO source and GBQ target ProcedureOrderFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ProcedureOrderProfileDim and ProcedureOrderProfileDim_CHCO_CDW_20170519035737694_19000101000000000_20170519035737694 tables.
+
+ProcedureOrderProfileDim: 32902
+ProcedureOrderProfileDim_CHCO_CDW_20170519035737694_19000101000000000_20170519035737694: 32902",Rowcount validation of CHCO source and GBQ target ProcedureOrderProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ProcedureSetDim and ProcedureSetDim_CHCO_CDW_20170519035744757_19000101000000000_20170519035744757 tables.
+
+ProcedureSetDim: 52877
+ProcedureSetDim_CHCO_CDW_20170519035744757_19000101000000000_20170519035744757: 52877",Rowcount validation of CHCO source and GBQ target ProcedureSetDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ProcedureTerminologyBridge and ProcedureTerminologyBridge_CHCO_CDW_20170519035755163_19000101000000000_20170519035755163 tables.
+
+ProcedureTerminologyBridge: 4
+ProcedureTerminologyBridge_CHCO_CDW_20170519035755163_19000101000000000_20170519035755163: 4",Rowcount validation of CHCO source and GBQ target ProcedureTerminologyBridge table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ProcedureTerminologyDim and ProcedureTerminologyDim_CHCO_CDW_20170519035758726_19000101000000000_20170519035758726 tables.
+
+ProcedureTerminologyDim: 89045
+ProcedureTerminologyDim_CHCO_CDW_20170519035758726_19000101000000000_20170519035758726: 89045",Rowcount validation of CHCO source and GBQ target ProcedureTerminologyDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ProcedureTerminologySetDim and ProcedureTerminologySetDim_CHCO_CDW_20170519035812757_19000101000000000_20170519035812757 tables.
+
+ProcedureTerminologySetDim: 41713
+ProcedureTerminologySetDim_CHCO_CDW_20170519035812757_19000101000000000_20170519035812757: 41713",Rowcount validation of CHCO source and GBQ target ProcedureTerminologySetDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ProviderDim and ProviderDim_CHCO_CDW_20170519035821882_19000101000000000_20170519035821882 tables.
+
+ProviderDim: 300825
+ProviderDim_CHCO_CDW_20170519035821882_19000101000000000_20170519035821882: 300825",Rowcount validation of CHCO source and GBQ target ProviderDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ReactionProfileDim and ReactionProfileDim_CHCO_CDW_20170519035941413_19000101000000000_20170519035941413 tables.
+
+ReactionProfileDim: 481
+ReactionProfileDim_CHCO_CDW_20170519035941413_19000101000000000_20170519035941413: 481",Rowcount validation of CHCO source and GBQ target ReactionProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ReferralEventFact and ReferralEventFact_CHCO_CDW_20170519035944866_19000101000000000_20170519035944866 tables.
+
+ReferralEventFact: 9905475
+ReferralEventFact_CHCO_CDW_20170519035944866_19000101000000000_20170519035944866: 9905475",Rowcount validation of CHCO source and GBQ target ReferralEventFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ReferralEventProfileDim and ReferralEventProfileDim_CHCO_CDW_20170519042518305_19000101000000000_20170519042518305 tables.
+
+ReferralEventProfileDim: 3278
+ReferralEventProfileDim_CHCO_CDW_20170519042518305_19000101000000000_20170519042518305: 3278",Rowcount validation of CHCO source and GBQ target ReferralEventProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ReferralEventStatusProfileDim and ReferralEventStatusProfileDim_CHCO_CDW_20170519042521945_19000101000000000_20170519042521945 tables.
+
+ReferralEventStatusProfileDim: 47587
+ReferralEventStatusProfileDim_CHCO_CDW_20170519042521945_19000101000000000_20170519042521945: 47587",Rowcount validation of CHCO source and GBQ target ReferralEventStatusProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ReferralProfileDim and ReferralProfileDim_CHCO_CDW_20170519042539055_19000101000000000_20170519042539055 tables.
+
+ReferralProfileDim: 3780
+ReferralProfileDim_CHCO_CDW_20170519042539055_19000101000000000_20170519042539055: 3780",Rowcount validation of CHCO source and GBQ target ReferralProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ReferralReasonProfileDim and ReferralReasonProfileDim_CHCO_CDW_20170519042542820_19000101000000000_20170519042542820 tables.
+
+ReferralReasonProfileDim: 42
+ReferralReasonProfileDim_CHCO_CDW_20170519042542820_19000101000000000_20170519042542820: 42",Rowcount validation of CHCO source and GBQ target ReferralReasonProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ReferralStatusProfileDim and ReferralStatusProfileDim_CHCO_CDW_20170519042546133_19000101000000000_20170519042546133 tables.
+
+ReferralStatusProfileDim: 455
+ReferralStatusProfileDim_CHCO_CDW_20170519042546133_19000101000000000_20170519042546133: 455",Rowcount validation of CHCO source and GBQ target ReferralStatusProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between RegistryMetricDim and RegistryMetricDim_CHCO_CDW_20170519042549492_19000101000000000_20170519042549492 tables.
+
+RegistryMetricDim: 4202
+RegistryMetricDim_CHCO_CDW_20170519042549492_19000101000000000_20170519042549492: 4202",Rowcount validation of CHCO source and GBQ target RegistryMetricDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between ResourceDim and ResourceDim_CHCO_CDW_20170519042553476_19000101000000000_20170519042553476 tables.
+
+ResourceDim: 1946
+ResourceDim_CHCO_CDW_20170519042553476_19000101000000000_20170519042553476: 1946",Rowcount validation of CHCO source and GBQ target ResourceDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between StandardDim and StandardDim_CHCO_CDW_20170519042557633_19000101000000000_20170519042557633 tables.
+
+StandardDim: 36
+StandardDim_CHCO_CDW_20170519042557633_19000101000000000_20170519042557633: 36",Rowcount validation of CHCO source and GBQ target StandardDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between SurgicalCaseFact and SurgicalCaseFact_CHCO_CDW_20170519042601773_19000101000000000_20170519042601773 tables.
+
+SurgicalCaseFact: 1018
+SurgicalCaseFact_CHCO_CDW_20170519042601773_19000101000000000_20170519042601773: 1018",Rowcount validation of CHCO source and GBQ target SurgicalCaseFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between SurgicalCaseProfileDim and SurgicalCaseProfileDim_CHCO_CDW_20170519042610836_19000101000000000_20170519042610836 tables.
+
+SurgicalCaseProfileDim: 10266
+SurgicalCaseProfileDim_CHCO_CDW_20170519042610836_19000101000000000_20170519042610836: 10266",Rowcount validation of CHCO source and GBQ target SurgicalCaseProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between SurgicalProcedureEventFact and SurgicalProcedureEventFact_CHCO_CDW_20170519042615164_19000101000000000_20170519042615164 tables.
+
+SurgicalProcedureEventFact: 2305
+SurgicalProcedureEventFact_CHCO_CDW_20170519042615164_19000101000000000_20170519042615164: 2305",Rowcount validation of CHCO source and GBQ target SurgicalProcedureEventFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between SurgicalProcedureEventProfileDim and SurgicalProcedureEventProfileDim_CHCO_CDW_20170519042623680_19000101000000000_20170519042623680 tables.
+
+SurgicalProcedureEventProfileDim: 6058
+SurgicalProcedureEventProfileDim_CHCO_CDW_20170519042623680_19000101000000000_20170519042623680: 6058",Rowcount validation of CHCO source and GBQ target SurgicalProcedureEventProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between SurgicalSupplyDim and SurgicalSupplyDim_CHCO_CDW_20170519042627461_19000101000000000_20170519042627461 tables.
+
+SurgicalSupplyDim: 48738
+SurgicalSupplyDim_CHCO_CDW_20170519042627461_19000101000000000_20170519042627461: 48738",Rowcount validation of CHCO source and GBQ target SurgicalSupplyDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between SurgicalSupplyUseFact and SurgicalSupplyUseFact_CHCO_CDW_20170519042639367_19000101000000000_20170519042639367 tables.
+
+SurgicalSupplyUseFact: 74
+SurgicalSupplyUseFact_CHCO_CDW_20170519042639367_19000101000000000_20170519042639367: 74",Rowcount validation of CHCO source and GBQ target SurgicalSupplyUseFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between SurgicalSupplyUseProfileDim and SurgicalSupplyUseProfileDim_CHCO_CDW_20170519042939352_19000101000000000_20170519042939352 tables.
+
+SurgicalSupplyUseProfileDim: 27
+SurgicalSupplyUseProfileDim_CHCO_CDW_20170519042939352_19000101000000000_20170519042939352: 27",Rowcount validation of CHCO source and GBQ target SurgicalSupplyUseProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between SurveyAnswerFact and SurveyAnswerFact_CHCO_CDW_20170519042942852_19000101000000000_20170519042942852 tables.
+
+SurveyAnswerFact: 3
+SurveyAnswerFact_CHCO_CDW_20170519042942852_19000101000000000_20170519042942852: 3",Rowcount validation of CHCO source and GBQ target SurveyAnswerFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between TimeOfDayDim and TimeOfDayDim_CHCO_CDW_20170519042946461_19000101000000000_20170519042946461 tables.
+
+TimeOfDayDim: 1443
+TimeOfDayDim_CHCO_CDW_20170519042946461_19000101000000000_20170519042946461: 1443",Rowcount validation of CHCO source and GBQ target TimeOfDayDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between TransportProfileDim and TransportProfileDim_CHCO_CDW_20170519043029164_19000101000000000_20170519043029164 tables.
+
+TransportProfileDim: 1429
+TransportProfileDim_CHCO_CDW_20170519043029164_19000101000000000_20170519043029164: 1429",Rowcount validation of CHCO source and GBQ target TransportProfileDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between VisitAttributeValueDim and VisitAttributeValueDim_CHCO_CDW_20170519043032539_19000101000000000_20170519043032539 tables.
+
+VisitAttributeValueDim: 9078139
+VisitAttributeValueDim_CHCO_CDW_20170519043032539_19000101000000000_20170519043032539: 9078139",Rowcount validation of CHCO source and GBQ target VisitAttributeValueDim table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between VisitFact and VisitFact_CHCO_CDW_20170519044943352_19000101000000000_20170519044943352 tables.
+
+VisitFact: 10489549
+VisitFact_CHCO_CDW_20170519044943352_19000101000000000_20170519044943352: 10489549",Rowcount validation of CHCO source and GBQ target VisitFact table,Pass
+22.2,6/2/2017,"Full Load:
+Row counts are equal between VisitProfileDim and VisitProfileDim_CHCO_CDW_20170519054608135_19000101000000000_20170519054608135 tables.
+
+VisitProfileDim: 19549
+VisitProfileDim_CHCO_CDW_20170519054608135_19000101000000000_20170519054608135: 19549",Rowcount validation of CHCO source and GBQ target VisitProfileDim table,Pass

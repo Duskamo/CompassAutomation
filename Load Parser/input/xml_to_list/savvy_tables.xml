@@ -1,0 +1,3356 @@
+<tbody><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ActiveDirectoryServiceAreaDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AddressDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AdmissionDiagnosisFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AdmissionDiagnosisProfileDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AdmissionProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AllergenDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AllergyFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AllergyProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AppointmentProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AttendingProviderFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AttributeDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillAreaDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountEncounterMappingFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountServiceProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountStatusProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingProcedureDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingProcedureKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingProcedureSetDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingTransactionChargeProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingTransactionFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingTransactionFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingTransactionProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingTransactionProfileDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CardiologyEncounterFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CardiologyProcedureFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CareAreaDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CareTeamFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CareTeamProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CaseProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ChargeCostMappingFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ChiefComplaintBridge
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ChiefComplaintDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ChiefComplaintSetDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CodedHospitalAdmissionDrgProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CodedHospitalAdmissionFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CodedHospitalAdmissionProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CodedProcedureFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CodedProcedureProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ContractDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CostCenterDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CostCenterSetDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CoverageDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DateDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DepartmentAttributeValueDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DepartmentAttributeValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DepartmentDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DepartmentDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DepartmentSetDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisBridge
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisEventFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisSetDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisTerminologyDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DischargeProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DrgDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DurationDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EdVisitAttributeValueDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EdVisitAttributeValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EdVisitFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EdVisitProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EligibilityEventAttributeProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EligibilityEventFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EligibilityEventProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EmployeeDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EmployeeDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EmployeeKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterAttributeValueDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterAttributeValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterProfileDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterRegistryProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterRegistryValueFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterRegistryValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EvsFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EvsProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EvsStageFourProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EvsStageOneProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EvsStageThreeProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EvsStageTwoProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      FlowsheetRowDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      FlowsheetTemplateDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      FlowsheetValueFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      FlowsheetValueProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      GuarantorDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      GuarantorKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      HospitalAdmissionAttributeValueDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      HospitalAdmissionAttributeValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      HospitalAdmissionFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      HospitalAdmissionFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      HospitalAdmissionProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      HospitalReadmissionProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImagingFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImagingProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImagingRepeatsProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationEventFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationSetDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabComponentDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabComponentResultAttributeValueDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabComponentResultAttributeValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabComponentResultFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabComponentResultProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabTestComponentResultMappingFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabTestFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabTestFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabTestingSourceDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabTestResultFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LdaFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LocationLevelDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MappingDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MappingTableColumnDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationAdministrationFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationAdministrationProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationCodeDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationCodeDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDispenseFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDispenseNdcProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDispenseProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDispenseQuantityProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderAttributeValueDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderAttributeValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderIndicationForUseProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderPrnReasonProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderSourceProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderTypeProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationSetDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ModifierBridge
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ModifierDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientAttributedProviderFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientAttributeValueDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientAttributeValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientEventFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientEventProfileDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientKeyCrossRef
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientLocationEventFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientLocationEventFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientLocationEventProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientLocationEventProfileDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientNoteFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientNoteProfileDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientRegistryProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientRegistryProfileDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientRegistryValueFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientRegistryValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientTypeDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PerformingProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PerformingTestDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PharmacyDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PlaceOfServiceDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureOrderAttributeValueDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureOrderAttributeValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureOrderFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureOrderProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureSetDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureTerminologyDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureTerminologySetDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProviderAttributeValueDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProviderAttributeValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProviderContractAssociationEventFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProviderDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProviderKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProviderSetDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      RadiologyOrderFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReactionProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimCmsProviderSpecialtyProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimDiagnosisProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimMedicationFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimMedicationProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimMedicationProviderSpecialtyProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimProcedureCmsSpecialtyProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimProcedureDiagnosisProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimProcedureFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimProcedureModifierProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimProcedureProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimProcedureProviderSpecialtyProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimProcedureProviderTaxonomyProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimProviderSpecialtyProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReceivedClaimProviderTaxonomyCodeProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralEventFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralEventProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralEventStatusProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralReasonProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralStatusProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      RegistryMetricDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      RequisitionDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      RequisitionDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ResourceAvailabilityDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ResourceAvailabilityDimX_Test
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ResourceAvailabilityKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ResourceDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ResourceDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimCmsProviderSpecialtyProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimDrgProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimLineCmsProviderSpecialtyProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimProviderSpecialtyProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimProviderTaxonomyCodeProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimServiceLineDrgProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimServiceLineFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimServiceLineModifierProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimServiceLineProcedureProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimServiceLineProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimServiceLineProviderSpecialtyProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SentClaimServiceLineProviderTaxonomyCodeProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SocialHistoryDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SocialHistoryFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SocialHistoryProfileDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SpecimenProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      StandardDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalCaseFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalCaseProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalProcedureEventFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalProcedureEventProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalSupplyDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalSupplyKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalSupplyUseFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalSupplyUseProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurveyAnswerFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurveyDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurveyQuestionDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurveyQuestionSetDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TestOrderProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TestOrderProfileDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TestResultProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TestResultProfileDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TimeOfDayDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TransportDelayProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TransportFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TransportProfileDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      UserDimX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      UserKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      VendorDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      VisitAttributeValueDim
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      VisitAttributeValueKey_Xref
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      VisitFact
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      VisitFactX
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      VisitProfileDim
+      <!---->
+    </td>
+  </tr><!---->
+</tbody>

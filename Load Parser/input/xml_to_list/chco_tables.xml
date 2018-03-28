@@ -1,0 +1,2772 @@
+<tbody><!---->
+<tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AddressDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AddressDim_CHCO_CDW_20170517103649796_19000101000000000_20170517103649796
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AdmissionProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AdmissionProfileDim_CHCO_CDW_20170517103726296_19000101000000000_20170517103726296
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AllergenDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AllergenDim_CHCO_CDW_20170517103731546_19000101000000000_20170517103731546
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AllergyFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AllergyFact_CHCO_CDW_20170517103743265_19000101000000000_20170517103743265
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AllergyProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AllergyProfileDim_CHCO_CDW_20170517104108374_19000101000000000_20170517104108374
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AppointmentProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AppointmentProfileDim_CHCO_CDW_20170517104112312_19000101000000000_20170517104112312
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AttendingProviderFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AttendingProviderFact_CHCO_CDW_20170517104115952_19000101000000000_20170517104115952
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AttributeDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      AttributeDim_CHCO_CDW_20170517104925531_19000101000000000_20170517104925531
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountEncounterMappingFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountEncounterMappingFact_CHCO_CDW_20170517105038999_19000101000000000_20170517105038999
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountFact_CHCO_CDW_20170517112700907_19000101000000000_20170517112700907
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountProfileDim_CHCO_CDW_20170517142206084_19000101000000000_20170517142206084
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountServiceProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountServiceProfileDim_CHCO_CDW_20170517142214318_19000101000000000_20170517142214318
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountStatusProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingAccountStatusProfileDim_CHCO_CDW_20170517142220912_19000101000000000_20170517142220912
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingProcedureDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingProcedureDim_CHCO_CDW_20170517142227318_19000101000000000_20170517142227318
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingProcedureSetDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingProcedureSetDim_CHCO_CDW_20170517142341943_19000101000000000_20170517142341943
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingTransactionChargeProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingTransactionChargeProfileDim_CHCO_CDW_20170517142352193_19000101000000000_20170517142352193
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingTransactionProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      BillingTransactionProfileDim_CHCO_CDW_20170517142439365_19000101000000000_20170517142439365
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CareAreaDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CareAreaDim_CHCO_CDW_20170517142446803_19000101000000000_20170517142446803
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CareTeamFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CareTeamFact_CHCO_CDW_20170517142453756_19000101000000000_20170517142453756
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CareTeamProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CareTeamProfileDim_CHCO_CDW_20170517145821913_19000101000000000_20170517145821913
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ChiefComplaintBridge_CHCO_CDW_20170517145829366_19000101000000000_20170517145829366
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ChiefComplaintDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ChiefComplaintDim_CHCO_CDW_20170517145916257_19000101000000000_20170517145916257
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ChiefComplaintSetDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ChiefComplaintSetDim_CHCO_CDW_20170517145924648_19000101000000000_20170517145924648
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CodedProcedureFact_CHCO_CDW_20170517145931445_19000101000000000_20170517145931445
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CodedProcedureProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CodedProcedureProfileDim_CHCO_CDW_20170517152010804_19000101000000000_20170517152010804
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ContractBridge_CHCO_CDW_20170517152023273_19000101000000000_20170517152023273
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CostCenterDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CostCenterDim_CHCO_CDW_20170517152031461_19000101000000000_20170517152031461
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CoverageDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      CoverageDim_CHCO_CDW_20170517152038914_19000101000000000_20170517152038914
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DateDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DateDim_CHCO_CDW_20170517152744539_19000101000000000_20170517152744539
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DepartmentDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DepartmentDim_CHCO_CDW_20170517152817414_19000101000000000_20170517152817414
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisBridge_CHCO_CDW_20170517152839180_19000101000000000_20170517152839180
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisDim_CHCO_CDW_20170517155417306_19000101000000000_20170517155417306
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisEventFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisEventFact_CHCO_CDW_20170517160052431_19000101000000000_20170517160052431
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisProfileDim_CHCO_CDW_20170517184143564_19000101000000000_20170517184143564
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisSetDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisSetDim_CHCO_CDW_20170517184150611_19000101000000000_20170517184150611
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisTerminologyDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DiagnosisTerminologyDim_CHCO_CDW_20170517193345050_19000101000000000_20170517193345050
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DischargeProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DischargeProfileDim_CHCO_CDW_20170517234158776_19000101000000000_20170517234158776
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DrgDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DrgDim_CHCO_CDW_20170517234204573_19000101000000000_20170517234204573
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DurationDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      DurationDim_CHCO_CDW_20170517234213089_19000101000000000_20170517234213089
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EdVisitAttributeValueDim_CHCO_CDW_20170518001016183_19000101000000000_20170518001016183
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EdVisitFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EdVisitFact_CHCO_CDW_20170518001517980_19000101000000000_20170518001517980
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EdVisitProfileDim_CHCO_CDW_20170518004318106_19000101000000000_20170518004318106
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EmployeeDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EmployeeDim_CHCO_CDW_20170518004325856_19000101000000000_20170518004325856
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterAttributeValueDim_CHCO_CDW_20170518004340997_19000101000000000_20170518004340997
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterFact_CHCO_CDW_20170518012547001_19000101000000000_20170518012547001
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterProfileDim_CHCO_CDW_20170518030607469_19000101000000000_20170518030607469
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterRegistryProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterRegistryProfileDim_CHCO_CDW_20170518030612188_19000101000000000_20170518030612188
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EncounterRegistryValueFact_CHCO_CDW_20170518030615735_19000101000000000_20170518030615735
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EvsFact_CHCO_CDW_20170518032453329_19000101000000000_20170518032453329
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EvsProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EvsProfileDim_CHCO_CDW_20170518032517298_19000101000000000_20170518032517298
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EvsStageOneProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      EvsStageOneProfileDim_CHCO_CDW_20170518032520704_19000101000000000_20170518032520704
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      FlowsheetRowDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      FlowsheetRowDim_CHCO_CDW_20170518032524079_19000101000000000_20170518032524079
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      FlowsheetTemplateDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      FlowsheetTemplateDim_CHCO_CDW_20170518032534016_19000101000000000_20170518032534016
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      FlowsheetValueProfileDim_CHCO_CDW_20170518032541048_19000101000000000_20170518032541048
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      GuarantorDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      GuarantorDim_CHCO_CDW_20170518032544438_19000101000000000_20170518032544438
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      HospitalAdmissionAttributeValueDim_CHCO_CDW_20170518032705157_19000101000000000_20170518032705157
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      HospitalAdmissionFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      HospitalAdmissionFact_CHCO_CDW_20170518032810720_19000101000000000_20170518032810720
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      HospitalAdmissionProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      HospitalAdmissionProfileDim_CHCO_CDW_20170518032905907_19000101000000000_20170518032905907
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationDim_CHCO_CDW_20170518032909485_19000101000000000_20170518032909485
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationEventFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationEventFact_CHCO_CDW_20170518032912970_19000101000000000_20170518032912970
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationProfileDim_CHCO_CDW_20170518033045110_19000101000000000_20170518033045110
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationSetDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ImmunizationSetDim_CHCO_CDW_20170518033058907_19000101000000000_20170518033058907
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabComponentDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabComponentDim_CHCO_CDW_20170518033102517_19000101000000000_20170518033102517
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabComponentResultFact_CHCO_CDW_20170518033108485_19000101000000000_20170518033108485
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabComponentResultProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabComponentResultProfileDim_CHCO_CDW_20170518062525944_19000101000000000_20170518062525944
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      LabDim_CHCO_CDW_20170518062529225_19000101000000000_20170518062529225
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationAdministrationFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationAdministrationFact_CHCO_CDW_20170518062532913_19000101000000000_20170518062532913
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationAdministrationProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationAdministrationProfileDim_CHCO_CDW_20170518074325821_19000101000000000_20170518074325821
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationCodeDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationCodeDim_CHCO_CDW_20170518074331962_19000101000000000_20170518074331962
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDim_CHCO_CDW_20170518074417071_19000101000000000_20170518074417071
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDispenseFact_CHCO_CDW_20170518074453774_19000101000000000_20170518074453774
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDispenseNdcProfileDim_CHCO_CDW_20170518093634059_19000101000000000_20170518093634059
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDispenseProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDispenseProfileDim_CHCO_CDW_20170518093645434_19000101000000000_20170518093645434
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDispenseQuantityProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationDispenseQuantityProfileDim_CHCO_CDW_20170518093650622_19000101000000000_20170518093650622
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderFact_CHCO_CDW_20170518093655137_19000101000000000_20170518093655137
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderIndicationForUseProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderIndicationForUseProfileDim_CHCO_CDW_20170518103331828_19000101000000000_20170518103331828
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderPrnReasonProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderPrnReasonProfileDim_CHCO_CDW_20170518103335470_19000101000000000_20170518103335470
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderProfileDim_CHCO_CDW_20170518103338955_19000101000000000_20170518103338955
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderSourceProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderSourceProfileDim_CHCO_CDW_20170518103344598_19000101000000000_20170518103344598
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderTypeProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationOrderTypeProfileDim_CHCO_CDW_20170518103348255_19000101000000000_20170518103348255
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationSetDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      MedicationSetDim_CHCO_CDW_20170518103351475_19000101000000000_20170518103351475
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ModifierBridge_CHCO_CDW_20170518103425642_19000101000000000_20170518103425642
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ModifierDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ModifierDim_CHCO_CDW_20170518103429237_19000101000000000_20170518103429237
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientAttributedProviderFact_CHCO_CDW_20170518103432957_19000101000000000_20170518103432957
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientAttributeValueDim_CHCO_CDW_20170518103436598_19000101000000000_20170518103436598
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientDim_CHCO_CDW_20170518105412091_19000101000000000_20170518105412091
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientLocationEventFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientLocationEventFact_CHCO_CDW_20170518111355717_19000101000000000_20170518111355717
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientLocationEventProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientLocationEventProfileDim_CHCO_CDW_20170518112912749_19000101000000000_20170518112912749
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientRegistryProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PatientRegistryProfileDim_CHCO_CDW_20170518112916483_19000101000000000_20170518112916483
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PharmacyDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PharmacyDim_CHCO_CDW_20170519030849771_19000101000000000_20170519030849771
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PlaceOfServiceDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      PlaceOfServiceDim_CHCO_CDW_20170519030913646_19000101000000000_20170519030913646
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureDim_CHCO_CDW_20170519030917333_19000101000000000_20170519030917333
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureOrderFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureOrderFact_CHCO_CDW_20170519031105412_19000101000000000_20170519031105412
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureOrderProfileDim_CHCO_CDW_20170519035737694_19000101000000000_20170519035737694
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureSetDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureSetDim_CHCO_CDW_20170519035744757_19000101000000000_20170519035744757
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureTerminologyBridge_CHCO_CDW_20170519035755163_19000101000000000_20170519035755163
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureTerminologyDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureTerminologyDim_CHCO_CDW_20170519035758726_19000101000000000_20170519035758726
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureTerminologySetDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProcedureTerminologySetDim_CHCO_CDW_20170519035812757_19000101000000000_20170519035812757
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProviderDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ProviderDim_CHCO_CDW_20170519035821882_19000101000000000_20170519035821882
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReactionProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReactionProfileDim_CHCO_CDW_20170519035941413_19000101000000000_20170519035941413
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralEventFact_CHCO_CDW_20170519035944866_19000101000000000_20170519035944866
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralEventProfileDim_CHCO_CDW_20170519042518305_19000101000000000_20170519042518305
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralEventStatusProfileDim_CHCO_CDW_20170519042521945_19000101000000000_20170519042521945
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralFact_CHCO_CDW_20170519042529711_19000101000000000_20170519042529711
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralFact_CHCO_CDW_20170519042535601_19000101000000000_20170519042535601
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralProfileDim_CHCO_CDW_20170519042539055_19000101000000000_20170519042539055
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralReasonProfileDim_CHCO_CDW_20170519042542820_19000101000000000_20170519042542820
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ReferralStatusProfileDim_CHCO_CDW_20170519042546133_19000101000000000_20170519042546133
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      RegistryMetricDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      RegistryMetricDim_CHCO_CDW_20170519042549492_19000101000000000_20170519042549492
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      ResourceDim_CHCO_CDW_20170519042553476_19000101000000000_20170519042553476
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      StandardDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      StandardDim_CHCO_CDW_20170519042557633_19000101000000000_20170519042557633
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalCaseFact_CHCO_CDW_20170519042601773_19000101000000000_20170519042601773
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalCaseProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalCaseProfileDim_CHCO_CDW_20170519042610836_19000101000000000_20170519042610836
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalProcedureEventFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalProcedureEventFact_CHCO_CDW_20170519042615164_19000101000000000_20170519042615164
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalProcedureEventProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalProcedureEventProfileDim_CHCO_CDW_20170519042623680_19000101000000000_20170519042623680
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalSupplyDim_CHCO_CDW_20170519042627461_19000101000000000_20170519042627461
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalSupplyUseFact_CHCO_CDW_20170519042639367_19000101000000000_20170519042639367
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurgicalSupplyUseProfileDim_CHCO_CDW_20170519042939352_19000101000000000_20170519042939352
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurveyAnswerFact_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      SurveyAnswerFact_CHCO_CDW_20170519042942852_19000101000000000_20170519042942852
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TimeOfDayDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TimeOfDayDim_CHCO_CDW_20170519042946461_19000101000000000_20170519042946461
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TransportProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      TransportProfileDim_CHCO_CDW_20170519043029164_19000101000000000_20170519043029164
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      VisitAttributeValueDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      VisitAttributeValueDim_CHCO_CDW_20170519043032539_19000101000000000_20170519043032539
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      VisitFact_CHCO_CDW_20170519044943352_19000101000000000_20170519044943352
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      VisitProfileDim_CHCO_CDW
+      <!---->
+    </td>
+  </tr><!----><tr class="table-list-row" ng-repeat="table in tlCtrl.tables track by (table.getTableId() + table.getTableType())" ng-click="tlCtrl.navigateToTable(table)">
+    <td class="table-list-cell">
+      <div ng-class="::{
+        'table-list-icon-table': table.getTableType() == 'TABLE',
+        'table-list-icon-external': table.getTableType() == 'EXTERNAL',
+        'table-list-icon-aggregate': table.getTableType() == 'AGGREGATE',
+        'table-list-icon-view': table.getTableType() == 'VIEW'
+      }" class="table-list-icon-table"></div>
+    </td>
+    <td class="table-list-cell table-list-name">
+      VisitProfileDim_CHCO_CDW_20170519054608135_19000101000000000_20170519054608135
+      <!---->
+    </td>
+  </tr><!---->
+</tbody>

@@ -1,0 +1,69 @@
+USE [Source]
+GO
+
+/****** Object:  Table [dbo].[Source_1]    Script Date: 6/22/2017 3:16:23 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Source_1](
+	[id] [int] NOT NULL,
+	[content] [nchar](10) NULL,
+ CONSTRAINT [PK_Source_1] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+
+
+
+-- #####################################################################
+
+USE [Source]
+GO
+
+/****** Object:  Table [dbo].[PositivetoGBQ_S]    Script Date: 6/22/2017 3:16:14 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[PositivetoGBQ_S](
+	[id] [int] NOT NULL,
+	[first_name] [varchar](15) NULL,
+	[last_name] [varchar](15) NULL,
+	[email] [varchar](40) NULL,
+	[address] [varchar](50) NULL,
+	[zip] [int] NULL
+) ON [PRIMARY]
+
+GO
+
+-- #####################################################################
+
+USE [Source]
+GO
+
+/****** Object:  Table [dbo].[Positive_S]    Script Date: 6/22/2017 3:16:08 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Positive_S](
+	[id] [int] NULL,
+	[first_name] [varchar](15) NULL,
+	[last_name] [varchar](15) NULL,
+	[email] [varchar](40) NULL,
+	[address] [varchar](50) NULL,
+	[zip] [int] NULL
+) ON [PRIMARY]
+
+GO

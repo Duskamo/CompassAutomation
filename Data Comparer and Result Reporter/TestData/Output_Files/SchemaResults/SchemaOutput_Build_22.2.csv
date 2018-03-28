@@ -1,0 +1,5 @@
+Test Date,Load Type,Source Table Name,Target Table Name,Verdict
+2017-06-27,Full,Person,Person_UCH_CDW_20170620111203696_19000101000000000_20170620111203696,Pass
+2017-06-27,Full,Positive_S,Positive_S,Pass
+2017-06-27,Full,PositivetoGBQ_S,PositivetoGBQ_S,Pass
+2017-06-27,Full,Source_1,Source_1,Pass

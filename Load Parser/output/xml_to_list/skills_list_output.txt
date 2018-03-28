@@ -1,0 +1,329 @@
+Accounting
+Adobe AEM
+Agile Methodology
+AJAX
+AngularJS
+Ant
+Apache - HTTP
+Art - Architecture
+Art - Computer Graphics
+Art - Painting
+Art - Performance
+Art - Photography
+Athletics - Baseball
+Athletics - Baseketball
+Athletics - Football
+Athletics - Golf
+Athletics - Hockey
+Athletics - Softball
+Athletics - Swimming
+Athletics - Table Tennis
+Athletics - Tennis
+Athletics - Vollyball
+AWK
+BI/Data Testing
+Bootstrap
+Business Analysis Methodology
+Business Intelligence Development
+Business Management
+Business Process Analogy
+C#
+C++
+C++ 11
+CMake
+Communication - Cross Cultural
+Communication - Verbal
+Communication - Written
+Computer Vision with OpenCV Library
+CSS
+Culinary - Baking
+Culinary - Food Preparation
+Culinary - Food Science
+Culinary - Nutrition & Dieting
+Data Analytics
+Data Governance
+Data Integration
+Data Modeling
+Data Science
+Data Warehousing
+Database Administration
+Database Design
+DataBase/Warehouse Design and Implementation
+Design Patterns
+Dimensional Modeling
+Django
+Domain Driven Design
+Eclipse
+Erwin Datamodeler
+ESB
+ETL
+Extract, Transform, and Load
+Facilitation
+Financial Analytics
+Fitness - Aerobic
+Fitness - Crossfit
+Fitness - Gym Training
+Fitness - Running
+Foreign Language
+Functional Automated Testing
+Functional Manual Testing
+Geospatial Analysis and Analytics
+Geospatial Analysis and Analytics - Big Data
+GIT
+Glassfish
+Groovy
+Hadoop
+HDFS Design and Implementation
+HIPAA
+HTML
+HTTP Unit
+IBM - Data Stage
+IBM - WebSphere Application Server
+IBM - WebSphere Portal
+Informatica
+Informatica Cloud
+IT Service Management
+Java - J2EE
+Java - J2SE
+Java - JBoss
+Java - Jersey API
+Java - JMS
+Java - jUnit
+Java - Open Rules
+Java - Portal/Portlet
+Java - SOAP Web Services
+Java - Spring AOP
+Java - Spring Core
+Java - Spring MVC
+Java - Spring Restlet
+JavaScript
+Jave 
+JaxRS
+JaxWS
+JDBC
+Jira
+jQuery
+KnockoutJS
+Linux - Red Hat
+Linux - SUSE
+Linux - Ubuntu
+Make
+Management - Cross Cultural
+Management - Mentorship
+Management - Operations
+Map Reduce Design and Construction
+Master Data / Reference Data Management
+Master Data Management
+Maven
+MbUnit
+Mentorship - Employee Engagement
+Mentorship - Employee Motivation
+Mercurial
+Microsoft -  MS Access
+Microsoft -  MS Excel
+Microsoft -  MS Project
+Microsoft -  Windows Server
+Microsoft - .Net
+Microsoft - ADO .Net
+Microsoft - ASP .Net Web API
+Microsoft - Asp.net
+Microsoft - Azure
+Microsoft - Coded UI
+Microsoft - CSLA
+Microsoft - Entity Framework
+Microsoft - MS Power Point
+Microsoft - MS Project Server
+Microsoft - MS Publisher
+Microsoft - MS SQL Server 2005 - DBA
+Microsoft - MS SQL Server 2008 R2 - DBA
+Microsoft - MS SQL Server 2012 - DBA
+Microsoft - MS SQL Server 2014 - DBA
+Microsoft - MS SSAS
+Microsoft - MS SSIS
+Microsoft - MS SSRS
+Microsoft - MS Visio
+Microsoft - MS Word
+Microsoft - MSBuild
+Microsoft - MsTest
+Microsoft - Network Design
+Microsoft - OLE/COM/DCOM
+Microsoft - Powershell
+Microsoft - SharePoint 2003
+Microsoft - SharePoint 2007
+Microsoft - SharePoint 2010
+Microsoft - SharePoint 2013
+Microsoft - SharePoint 2016
+Microsoft - Silverlight
+Microsoft - Windows 10
+Microsoft - Windows 7
+Microsoft - Windows 8/8.1
+Microsoft - Windows Desktop
+Microsoft - Windows Server 2003
+Microsoft - Windows Server 2008
+Microsoft - Windows Server 2012
+Microsoft - WPF
+Microsoft IIS
+Microsoft SQL Server 2005
+Microsoft SQL Server 2008 R2
+Microsoft SQL Server 2012
+Microsoft SQL Server 2014
+Microsoft SQL Server Compact (CE)
+Microsoft TFS
+Microsoft Visual C++
+Microsoft Visual Studio
+Microstrategy
+Mobile - Android Mobile App
+Mobile - Android SDK
+Mobile - iOS
+Mobile Automated Testing
+Mobile Testing
+Music - Alternative
+Music - Classic Rock
+Music - Classical
+Music - Country
+Music - Hip Hop and R&B
+Music - Performance (Professional)
+Music - Performance (Recreational)
+MVC - Model View Control
+MVVM - Model View Viewmodel
+MySQL
+MySQL - DBA
+NetBeans
+Network Administration
+Network Topography
+Network Troubleshooting
+Neutral Networks
+Nginx HTTP
+NoSQL Design and implementation
+Objective-C
+ODBC
+Oracle
+Oracle - DBA
+OSX - 10.10+
+OSX - 10.6+
+Outdoor - Skiing
+Outdoors - Biking
+Outdoors - Camping
+Outdoors - Fishing
+Outdoors - Hiking
+Outdoors - Hunting (Bow)
+Outdoors - Hunting (Firearm)
+Outdoors - Kayaking
+Outdoors - Snowboarding
+Outdoors - Water Sports
+Pega - PRPC
+Performance Testing
+Photoshop
+PHP
+PostgreSQL
+Power Pivot
+Presentation - Delivery
+Presentation - Design
+Process Management
+Project Management
+Python
+QMake
+Qt
+Rally
+RESTful Web Services
+Salesforce (SFDC)
+SAP
+SAS Enterprise Guide
+SAS Enterprise Miner
+SASS
+SDLC
+Security Testing
+Shell Scripting
+Sitecore
+Soft Skill - Interview
+Soft Skill - Job Fair
+Soft Skill - Leadership
+Soft Skill - Time Management
+Soft Skill - Train the Trainer
+Software Process - CMMI
+Software Process - DSDM
+Software Process - FDD
+Software Process - ISO Quality Management
+Software Process - Kanban
+Software Process - PMP
+Software Process - Scrum
+Software Process - TDD
+Software Process - XP
+Solution Design and Architecture
+SQLite
+Subversion
+SVN
+Swift
+T-SQL
+Tableau
+TechExcel DevSuite
+Test Lead/ Management
+Tomcat
+Tools - Ambari
+Tools - Avro
+Tools - Datastage
+Tools - Erwin
+Tools - Flume
+Tools - Gobblin
+Tools - Google Cloud Platform Web UI
+Tools - HBase
+Tools - Hive
+Tools - HP Loadrunner
+Tools - HP QC
+Tools - HP QTP
+Tools - HUE
+Tools - IBM Cognos
+Tools - IBM Data Architect
+Tools - Imapala
+Tools - Informatica
+Tools - Jmeter
+Tools - Lucene/Solr
+Tools - Mahout
+Tools - NoSQL - MongoDB
+Tools - Oozie
+Tools - Oracle - BI - Administration Tool
+Tools - Oracle - BI - Catalog Manager
+Tools - Oracle - BI - Cloud
+Tools - Oracle - BI - Enterprise Edition
+Tools - Oracle - Cloud Service
+Tools - Oracle - Data Integrator
+Tools - Oracle - Data warehouse Administrator
+Tools - Oracle - SQL Developer
+Tools - Pig Latin
+Tools - Power BI
+Tools - Protractor
+Tools - Selenium
+Tools - SoapUI
+Tools - Spark
+Tools - SQL Server Data Tools - Analytics
+Tools - SQL Server Data Tools - BI Reporting
+Tools - SQL Server Data Tools - ETL
+Tools - SQL Server Management Studio
+Tools - Sqoop
+Tools - Tableau
+Tools - Talend
+Tools - Zookeeper
+Tourism - City Guide
+Tourism - Festival
+Tourism - Other Events
+VB.net
+Virtualization - Citrix XenCenter
+Virtualization - Docker
+Virtualization - ESXi
+Virtualization - HyperV
+Virtualization - KVM
+Virtualization - libvirt
+Virtualization - VirtualBox
+Virtualization - VMWare
+Virtualization - VSphere
+Virtualization - XEN
+Visual Basic
+Volunteer - Non Profit
+Volunteer - School
+Waterfall Methodology
+Web Service Testing
+Websphere
+WorkDay
+Xamarin Forms
+XCode
+xUnit
